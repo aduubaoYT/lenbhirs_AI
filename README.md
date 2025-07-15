@@ -2,3 +2,5 @@ lenbhirs AI é uma IA brasileira criada por mim. provavelmente no futuro vou lan
 
 
 a lenbhirs AI é inteligente, brasileira, e gentil! não use a IA lenbhirs de forma maliciosa como para ajudar a hackear ou invadir um site ou app.
+
+use o comando /aduubao nela
